@@ -1,0 +1,9 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: desec
+  author: Freerk-Ole Zakfeld
+  description: desec.io API for ansible
+  license: "MIT"
+  min_ansible_version: ">=2.12"
